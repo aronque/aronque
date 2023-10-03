@@ -5,7 +5,7 @@
 ## About me
 - 🌱 I’m currently coursing Information Systems in UNESP, besides learning Java a lot!
 - 🤔 I started to study and programming in jan/2020
-- 📫 How to reach me: [vitorsiwerskiaronque@gmail.com](https://www.linkedin.com/feed/)
+- 📫 How to reach me: https://www.linkedin.com/feed/
  
 ## Tecnologies i'm familiar with:
 - Java <img src="https://img.icons8.com/dusk/48/000000/java-coffee-cup-logo.png" align="center"/>
