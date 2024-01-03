@@ -3,7 +3,7 @@
 <h3 align="center"> Back-end developer and student<h3/>   
 
 ## About me
-- 🌱 I’m currently coursing Information Systems in UNESP, besides learning Java a lot!
+- 🌱 I’m a backend developer in a comunications technologies research center, focused on a network inventory system project. Currently coursing Information Systems in UNESP, besides learning Java a lot!
 - 🤔 I started to study and programming in jan/2020
 - 📫 How to reach me: https://www.linkedin.com/in/vitor-aronque/
  
